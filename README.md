@@ -16,3 +16,6 @@
   <li>Validação de Dados: O GameZone implementa uma validação básica dos dados de entrada, garantindo que os usuários forneçam informações corretas e completas durante o processo de login.</li>
 </ul>
 
+
+<h4>Confira o projeto<a hrf="https://gabrielmendes16.github.io/tela_de_login/">clicando aqui</a></h4>
+
