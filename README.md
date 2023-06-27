@@ -1,13 +1,9 @@
 # GameZone - Tela de Login Responsiva para Todos os Tamanhos de Tela
 
-<style>
-  h3{
-     text-align: justify;
-  }
-</style>
+
 
 <h3>
-  O GameZone é um projeto que visa fornecer uma experiência de login atraente e responsiva para os usuários de um site de jogos. O objetivo é permitir que os jogadores acessem sua conta de forma fácil e intuitiva, 
+  O GameZone é um projeto que visa fornecer uma experiência de login atraente e responsiva para os usuários de um site de jogos.<br>O objetivo é permitir que os jogadores acessem sua conta de forma fácil e intuitiva, 
   independentemente do dispositivo ou tamanho de tela em que estejam.
 </h3>
 
