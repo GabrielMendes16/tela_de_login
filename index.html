@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./assets/css/login.css">
+</head>
+
+
+<body>
+    <main>
+        <section class="container-bloco">
+            <article class="container-animacao">
+                <video class="animacao" src="./assets/video/animacao_game.mp4" loop autoplay muted></video>
+            </article>
+            <article class="container-form">
+                <form action="" onsubmit="return validarFormulario()">
+                    <fieldset>
+                        <legend>Bem vindo! a Sua</legend>
+                        <h2>GameZone</h2>
+                        <div class="container-dados">
+                            <label for="email">E-mail</label>
+                            <input class="form-input" type="email" id="email" required>
+                        </div>
+                        <div class="container-dados">
+                            <label for="senha">Senha</label>
+                            <input class="form-input" type="password" id="senha" required>
+                        </div>
+                        <div class=" container-btn-acesso">
+                            <button type="submit" value="enviar">Acessar GameZone</button>
+                        </div>
+                        <div id="mensagem-validacao" class="mensagem-validacao"></div>
+                </form>
+
+                </fieldset>
+
+            </article>
+        </section>
+    </main>
+    <script type="text/javascript" src="./assets/js/login.js"></script>
+</body>
+
+</html>
